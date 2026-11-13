@@ -322,6 +322,17 @@ The CPU and GPU implementations produced matching outputs at the reported precis
 11. The average GPU end-to-end execution time was 0.203128 ms.
 12. GPU execution demonstrated a performance improvement over the CPU implementation.
 
+## Screenshots
+
+![Neural 1](Sreenshots/nn_cuda1.jpeg)
+![Neural 2](Sreenshots/nn_cuda2.jpeg)
+![Neural 3](Sreenshots/nn_cuda3.jpeg)
+![Neural 4](Sreenshots/nn_cuda4.jpeg)
+![Neural 5](Sreenshots/nn_cuda5.jpeg)
+![Neural 6](Sreenshots/nn_cuda6.jpeg)
+![Neural 7](Sreenshots/nn_cuda7.jpeg)
+
+
 ## 12. Conclusion
 
 The experiment successfully implemented neural network layers using CUDA and executed two-layer forward propagation on the NVIDIA RTX 4500 Ada Generation GPU.
