@@ -324,14 +324,13 @@ The CPU and GPU implementations produced matching outputs at the reported precis
 
 ## Screenshots
 
-![Neural 1](Sreenshots/nn_cuda1.jpeg)
-![Neural 2](Sreenshots/nn_cuda2.jpeg)
-![Neural 3](Sreenshots/nn_cuda3.jpeg)
-![Neural 4](Sreenshots/nn_cuda4.jpeg)
-![Neural 5](Sreenshots/nn_cuda5.jpeg)
-![Neural 6](Sreenshots/nn_cuda6.jpeg)
-![Neural 7](Sreenshots/nn_cuda7.jpeg)
-
+![Neural Network CUDA - Screenshot 1](screenshots/nn_cuda1.jpeg)
+![Neural Network CUDA - Screenshot 2](screenshots/nn_cuda2.jpeg)
+![Neural Network CUDA - Screenshot 3](screenshots/nn_cuda3.jpeg)
+![Neural Network CUDA - Screenshot 4](screenshots/nn_cuda4.jpeg)
+![Neural Network CUDA - Screenshot 5](screenshots/nn_cuda5.jpeg)
+![Neural Network CUDA - Screenshot 6](screenshots/nn_cuda6.jpeg)
+![Neural Network CUDA - Screenshot 7](screenshots/nn_cuda7.jpeg)
 
 ## 12. Conclusion
 
